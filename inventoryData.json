@@ -1,0 +1,57 @@
+[
+    {
+        "name": "hammer12",
+        "description": "hfks sfhksfjh dfjhdfh fjhffh fhdfh dfhskfh fjhds",
+        "rentalPrice": "250.0",
+        "duration": "2 Weeks",
+        "category": "heavy machines",
+        "available": "true",
+        "maintenance": "false",
+        "newArrival": "true",
+        "image": "http://localhost:5001/uploads/1720094312864.png"
+    },
+    {
+        "name": "hammer34",
+        "description": "hfks sfhksfjh dfjhdfh fjhffh fhdfh dfhskfh fjhds",
+        "rentalPrice": "2450.0",
+        "duration": "3 Weeks",
+        "category": "heavy machines",
+        "available": "true",
+        "maintenance": "false",
+        "newArrival": "true",
+        "image": "http://localhost:5001/uploads/1720094312864.png"
+    },
+    {
+        "name": "hammer56",
+        "description": "hfks sfhksfjh dfjhdfh fjhffh fhdfh dfhskfh fjhds",
+        "rentalPrice": "2450.0",
+        "duration": "4 Weeks",
+        "category": "heavy machines",
+        "available": "true",
+        "maintenance": "false",
+        "newArrival": "true",
+        "image": "http://localhost:5001/uploads/1720094312864.png"
+    },
+    {
+        "name": "scaffold23",
+        "description": "hfks sfhksfjh dfjhdfh fjhffh fhdfh dfhskfh fjhds",
+        "rentalPrice": "250.0",
+        "duration": "2 Weeks",
+        "category": "heavy machines",
+        "available": "true",
+        "maintenance": "false",
+        "newArrival": "true",
+        "image": "http://localhost:5001/uploads/1720094312864.png"
+    },
+    {
+        "name": "machine",
+        "description": "hfks sfhksfjh dfjhdfh fjhffh fhdfh dfhskfh fjhds",
+        "rentalPrice": "2520.0",
+        "duration": "2 days",
+        "category": "heavy machines",
+        "available": "true",
+        "maintenance": "false",
+        "newArrival": "true",
+        "image": "http://localhost:5001/uploads/1720094312864.png"
+    }
+]
